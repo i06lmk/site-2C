@@ -1,5 +1,8 @@
-body {background-color: #4169E1;
+header {
+    background-color: #4169E1;
     color: white
 }
-<title>Document</title>
-<link rel=”stylesheet” href=”style.css”>
+   
+.cabecalho-imagem{
+  width: 20%;
+}
